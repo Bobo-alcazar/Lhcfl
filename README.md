@@ -5,5 +5,5 @@
 只是个普通人。也希望自己一直是普通人。  
 梦想是好好活着。
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lhcfl&count_private=true&show_icons=true&theme=monokai&hide=issues" height="180px"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhcfl&layout=compact&theme=monokai" height="180px"><img>
+<img src="https://github-readme-stats.vercel.app/api?username=Lhcfl&count_private=true&show_icons=true&theme=monokai&hide=issues" height="150px"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhcfl&layout=compact&theme=monokai" height="150px"><img>
