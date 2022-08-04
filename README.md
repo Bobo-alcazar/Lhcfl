@@ -5,4 +5,5 @@
 只是个普通人。  
 梦想是好好活着。
 
-[![Lhcfl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lhcfl&count_private=true&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lhcfl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Lhcfl&count_private=true&show_icons=true" height="180px"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhcfl&layout=compact" height="180px"><img>
