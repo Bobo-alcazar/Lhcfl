@@ -6,4 +6,4 @@
 梦想是好好活着。
 
 <img src="https://github-readme-stats.vercel.app/api?username=Lhcfl&count_private=true&show_icons=true&theme=monokai&hide=issues" height="150px"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhcfl&layout=compact&theme=monokai&hide=HTML,SCSS" height="150px"><img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhcfl&layout=compact&theme=monokai&hide=HTML" height="150px"><img>
